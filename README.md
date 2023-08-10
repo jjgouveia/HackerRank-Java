@@ -1,2 +1,2 @@
 # HackerRank-Java
-## Repositório com as resoluções dos desafios das trilhas de Java do HackerRank!
+## Repositório com as minhas resoluções dos desafios das trilhas de Java no HackerRank!
